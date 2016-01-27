@@ -1,0 +1,27 @@
+
+.jumbotron {
+     position: fixed;
+     width: 100%;
+     height: 40%;
+     background: none;
+     background-image: img src="css/beachhouse.jpg" alt="Arch Cape, OR.";
+     padding: 5px;
+     margin-bottom: 20px;
+     font-size: 10px;
+     font-weight: 200;
+     line-height: 2.1428571435;
+ }
+
+.aboutpatagonia {
+    float: left;
+}
+
+.container {
+  width: auto;
+  margin-top: 550px;
+
+}
+.more {
+  width: auto;
+  float: right;
+}
