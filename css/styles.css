@@ -36,6 +36,10 @@
 
 }
 
+.special {
+  color: #002b80
+}
+
 .column{
   width: 500px;
   float: left;
