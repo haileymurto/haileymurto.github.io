@@ -1,26 +1,36 @@
 
 .jumbotron {
-     position: fixed;
+     position: absolute;
      width: 100%;
-     height: 100%;
+     height: 400px;
      padding: 5px;
      margin-bottom: 20px;
-     background-image: img src="css/beachhouse.jpg";
+     background-image: url(../img/beachgrass.jpg);
      font-size: 10px;
      font-weight: 200;
      line-height: 2.1428571435;
  }
 
+.title {
+    text-align: center;
+
+}
+
 .aboutme {
     float: left;
+    padding-left: 10px;
 }
 
 .container {
   width: auto;
-  margin-top: 550px;
-
+  margin-top: 100px;
 }
+
 .more {
   width: auto;
-  float: right;
+  float: inherit;;
 }
+
+.column{
+  width: 500px;
+  float: left;
