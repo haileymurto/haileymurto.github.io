@@ -13,22 +13,31 @@
 
 .title {
     text-align: center;
+    float: center;
+    margin-top: 40px;
 
 }
 
 .aboutme {
-    float: left;
-    padding-left: 10px;
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  text-align: center;
+  margin-top: 20px;
+
+
 }
+
 
 .container {
   width: auto;
-  margin-top: 50px;
 }
 
-.more {
-  width: auto;
-  float: inherit;
+
+
+.left {
+  padding-left: 40px;
+
 }
 
 .cats {
@@ -36,6 +45,6 @@
 
 }
 
-.column{
-  width: 500px;
-  float: left;
+.special {
+  color: #002b80
+}
